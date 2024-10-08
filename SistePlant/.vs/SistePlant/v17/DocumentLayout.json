@@ -1,42 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "G:\\alexfrontRepos\\pruebaTecnicaSisteplant\\SistePlant\\",
+  "WorkspaceRootPath": "G:\\alexfrontRepos\\pruebaTecnica\\PruebaTecnicaSisteplant\\SistePlant\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\alexfrontRepos\\pruebaTecnicaSisteplant\\SistePlant\\src\\components\\TaskFilter.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\TaskFilter.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\alexfrontRepos\\pruebaTecnica\\PruebaTecnicaSisteplant\\SistePlant\\cypress\\e2e\\01-AddTaskToList.cy.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cypress\\e2e\\01-AddTaskToList.cy.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\alexfrontRepos\\pruebaTecnicaSisteplant\\SistePlant\\src\\router\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\router\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\alexfrontRepos\\pruebaTecnica\\PruebaTecnicaSisteplant\\SistePlant\\cypress\\e2e\\03-DeleteTask.cy.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cypress\\e2e\\03-DeleteTask.cy.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\alexfrontRepos\\pruebaTecnicaSisteplant\\SistePlant\\src\\components\\TaskList.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\alexfrontRepos\\pruebaTecnica\\PruebaTecnicaSisteplant\\SistePlant\\cypress\\e2e\\02-MarkAsCompleted.cy.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cypress\\e2e\\02-MarkAsCompleted.cy.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\alexfrontRepos\\pruebaTecnica\\PruebaTecnicaSisteplant\\SistePlant\\src\\components\\TaskList.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\TaskList.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\alexfrontRepos\\pruebaTecnicaSisteplant\\SistePlant\\src\\stores\\Tasks.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\stores\\Tasks.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\alexfrontRepos\\pruebaTecnica\\PruebaTecnicaSisteplant\\SistePlant\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\alexfrontRepos\\pruebaTecnicaSisteplant\\SistePlant\\src\\App.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\alexfrontRepos\\pruebaTecnica\\PruebaTecnicaSisteplant\\SistePlant\\cypress\\e2e\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cypress\\e2e\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\alexfrontRepos\\pruebaTecnicaSisteplant\\SistePlant\\src\\assets\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\assets\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\alexfrontRepos\\pruebaTecnica\\PruebaTecnicaSisteplant\\SistePlant\\cypress\\fixtures\\example.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cypress\\fixtures\\example.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\alexfrontRepos\\pruebaTecnicaSisteplant\\SistePlant\\src\\assets\\base.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\assets\\base.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\alexfrontRepos\\pruebaTecnica\\PruebaTecnicaSisteplant\\SistePlant\\cypress\\support\\commands.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cypress\\support\\commands.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\alexfrontRepos\\pruebaTecnicaSisteplant\\SistePlant\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\alexfrontRepos\\pruebaTecnicaSisteplant\\SistePlant\\src\\views\\HomePage.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\views\\HomePage.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\alexfrontRepos\\pruebaTecnica\\PruebaTecnicaSisteplant\\SistePlant\\cypress\\support\\e2e.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cypress\\support\\e2e.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,94 +46,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "index.html",
-              "DocumentMoniker": "G:\\alexfrontRepos\\pruebaTecnicaSisteplant\\SistePlant\\index.html",
-              "RelativeDocumentMoniker": "index.html",
-              "ToolTip": "G:\\alexfrontRepos\\pruebaTecnicaSisteplant\\SistePlant\\index.html",
-              "RelativeToolTip": "index.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-10-08T04:00:25.775Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "base.css",
-              "DocumentMoniker": "G:\\alexfrontRepos\\pruebaTecnicaSisteplant\\SistePlant\\src\\assets\\base.css",
-              "RelativeDocumentMoniker": "src\\assets\\base.css",
-              "ToolTip": "G:\\alexfrontRepos\\pruebaTecnicaSisteplant\\SistePlant\\src\\assets\\base.css",
-              "RelativeToolTip": "src\\assets\\base.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-08T05:57:51.58Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "App.vue",
-              "DocumentMoniker": "G:\\alexfrontRepos\\pruebaTecnicaSisteplant\\SistePlant\\src\\App.vue",
-              "RelativeDocumentMoniker": "src\\App.vue",
-              "ToolTip": "G:\\alexfrontRepos\\pruebaTecnicaSisteplant\\SistePlant\\src\\App.vue",
-              "RelativeToolTip": "src\\App.vue",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
-              "WhenOpened": "2024-10-08T05:50:24.245Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Tasks.ts",
-              "DocumentMoniker": "G:\\alexfrontRepos\\pruebaTecnicaSisteplant\\SistePlant\\src\\stores\\Tasks.ts",
-              "RelativeDocumentMoniker": "src\\stores\\Tasks.ts",
-              "ToolTip": "G:\\alexfrontRepos\\pruebaTecnicaSisteplant\\SistePlant\\src\\stores\\Tasks.ts",
-              "RelativeToolTip": "src\\stores\\Tasks.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "DocumentIndex": 1,
+              "Title": "03-DeleteTask.cy.ts",
+              "DocumentMoniker": "G:\\alexfrontRepos\\pruebaTecnica\\PruebaTecnicaSisteplant\\SistePlant\\cypress\\e2e\\03-DeleteTask.cy.ts",
+              "RelativeDocumentMoniker": "cypress\\e2e\\03-DeleteTask.cy.ts",
+              "ToolTip": "G:\\alexfrontRepos\\pruebaTecnica\\PruebaTecnicaSisteplant\\SistePlant\\cypress\\e2e\\03-DeleteTask.cy.ts",
+              "RelativeToolTip": "cypress\\e2e\\03-DeleteTask.cy.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-10-07T16:06:48.938Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "main.css",
-              "DocumentMoniker": "G:\\alexfrontRepos\\pruebaTecnicaSisteplant\\SistePlant\\src\\assets\\main.css",
-              "RelativeDocumentMoniker": "src\\assets\\main.css",
-              "ToolTip": "G:\\alexfrontRepos\\pruebaTecnicaSisteplant\\SistePlant\\src\\assets\\main.css",
-              "RelativeToolTip": "src\\assets\\main.css",
-              "ViewState": "AQIAABcAAAAAAAAAAAAAACcAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-07T15:40:41.537Z",
+              "WhenOpened": "2024-10-08T09:12:56.27Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TaskFilter.vue",
-              "DocumentMoniker": "G:\\alexfrontRepos\\pruebaTecnicaSisteplant\\SistePlant\\src\\components\\TaskFilter.vue",
-              "RelativeDocumentMoniker": "src\\components\\TaskFilter.vue",
-              "ToolTip": "G:\\alexfrontRepos\\pruebaTecnicaSisteplant\\SistePlant\\src\\components\\TaskFilter.vue",
-              "RelativeToolTip": "src\\components\\TaskFilter.vue",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
-              "WhenOpened": "2024-10-07T15:33:31.928Z",
+              "Title": "01-AddTaskToList.cy.ts",
+              "DocumentMoniker": "G:\\alexfrontRepos\\pruebaTecnica\\PruebaTecnicaSisteplant\\SistePlant\\cypress\\e2e\\01-AddTaskToList.cy.ts",
+              "RelativeDocumentMoniker": "cypress\\e2e\\01-AddTaskToList.cy.ts",
+              "ToolTip": "G:\\alexfrontRepos\\pruebaTecnica\\PruebaTecnicaSisteplant\\SistePlant\\cypress\\e2e\\01-AddTaskToList.cy.ts",
+              "RelativeToolTip": "cypress\\e2e\\01-AddTaskToList.cy.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-08T08:47:50.96Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "TaskList.vue",
-              "DocumentMoniker": "G:\\alexfrontRepos\\pruebaTecnicaSisteplant\\SistePlant\\src\\components\\TaskList.vue",
+              "DocumentMoniker": "G:\\alexfrontRepos\\pruebaTecnica\\PruebaTecnicaSisteplant\\SistePlant\\src\\components\\TaskList.vue",
               "RelativeDocumentMoniker": "src\\components\\TaskList.vue",
-              "ToolTip": "G:\\alexfrontRepos\\pruebaTecnicaSisteplant\\SistePlant\\src\\components\\TaskList.vue",
+              "ToolTip": "G:\\alexfrontRepos\\pruebaTecnica\\PruebaTecnicaSisteplant\\SistePlant\\src\\components\\TaskList.vue",
               "RelativeToolTip": "src\\components\\TaskList.vue",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
@@ -142,28 +89,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "index.ts",
-              "DocumentMoniker": "G:\\alexfrontRepos\\pruebaTecnicaSisteplant\\SistePlant\\src\\router\\index.ts",
-              "RelativeDocumentMoniker": "src\\router\\index.ts",
-              "ToolTip": "G:\\alexfrontRepos\\pruebaTecnicaSisteplant\\SistePlant\\src\\router\\index.ts",
-              "RelativeToolTip": "src\\router\\index.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAdAAAA",
+              "DocumentIndex": 2,
+              "Title": "02-MarkAsCompleted.cy.ts",
+              "DocumentMoniker": "G:\\alexfrontRepos\\pruebaTecnica\\PruebaTecnicaSisteplant\\SistePlant\\cypress\\e2e\\02-MarkAsCompleted.cy.ts",
+              "RelativeDocumentMoniker": "cypress\\e2e\\02-MarkAsCompleted.cy.ts",
+              "ToolTip": "G:\\alexfrontRepos\\pruebaTecnica\\PruebaTecnicaSisteplant\\SistePlant\\cypress\\e2e\\02-MarkAsCompleted.cy.ts",
+              "RelativeToolTip": "cypress\\e2e\\02-MarkAsCompleted.cy.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-10-07T14:54:45.266Z",
+              "WhenOpened": "2024-10-08T08:31:13.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "package.json",
+              "DocumentMoniker": "G:\\alexfrontRepos\\pruebaTecnica\\PruebaTecnicaSisteplant\\SistePlant\\package.json",
+              "RelativeDocumentMoniker": "package.json",
+              "ToolTip": "G:\\alexfrontRepos\\pruebaTecnica\\PruebaTecnicaSisteplant\\SistePlant\\package.json",
+              "RelativeToolTip": "package.json",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAsAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T08:40:35.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "G:\\alexfrontRepos\\pruebaTecnica\\PruebaTecnicaSisteplant\\SistePlant\\cypress\\e2e\\tsconfig.json",
+              "RelativeDocumentMoniker": "cypress\\e2e\\tsconfig.json",
+              "ToolTip": "G:\\alexfrontRepos\\pruebaTecnica\\PruebaTecnicaSisteplant\\SistePlant\\cypress\\e2e\\tsconfig.json",
+              "RelativeToolTip": "cypress\\e2e\\tsconfig.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T08:31:09.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "example.json",
+              "DocumentMoniker": "G:\\alexfrontRepos\\pruebaTecnica\\PruebaTecnicaSisteplant\\SistePlant\\cypress\\fixtures\\example.json",
+              "RelativeDocumentMoniker": "cypress\\fixtures\\example.json",
+              "ToolTip": "G:\\alexfrontRepos\\pruebaTecnica\\PruebaTecnicaSisteplant\\SistePlant\\cypress\\fixtures\\example.json",
+              "RelativeToolTip": "cypress\\fixtures\\example.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T08:31:04.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "commands.ts",
+              "DocumentMoniker": "G:\\alexfrontRepos\\pruebaTecnica\\PruebaTecnicaSisteplant\\SistePlant\\cypress\\support\\commands.ts",
+              "RelativeDocumentMoniker": "cypress\\support\\commands.ts",
+              "ToolTip": "G:\\alexfrontRepos\\pruebaTecnica\\PruebaTecnicaSisteplant\\SistePlant\\cypress\\support\\commands.ts",
+              "RelativeToolTip": "cypress\\support\\commands.ts",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-08T08:30:49.622Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "HomePage.vue",
-              "DocumentMoniker": "G:\\alexfrontRepos\\pruebaTecnicaSisteplant\\SistePlant\\src\\views\\HomePage.vue",
-              "RelativeDocumentMoniker": "src\\views\\HomePage.vue",
-              "ToolTip": "G:\\alexfrontRepos\\pruebaTecnicaSisteplant\\SistePlant\\src\\views\\HomePage.vue",
-              "RelativeToolTip": "src\\views\\HomePage.vue",
+              "Title": "e2e.ts",
+              "DocumentMoniker": "G:\\alexfrontRepos\\pruebaTecnica\\PruebaTecnicaSisteplant\\SistePlant\\cypress\\support\\e2e.ts",
+              "RelativeDocumentMoniker": "cypress\\support\\e2e.ts",
+              "ToolTip": "G:\\alexfrontRepos\\pruebaTecnica\\PruebaTecnicaSisteplant\\SistePlant\\cypress\\support\\e2e.ts",
+              "RelativeToolTip": "cypress\\support\\e2e.ts",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
-              "WhenOpened": "2024-10-07T15:28:36.37Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-08T08:30:47.818Z",
               "EditorCaption": ""
             }
           ]

@@ -15,7 +15,8 @@ router.get('/api/tasks', async (req, res) => {
 
 // POST /api/tasks
 router.post('/api/tasks', async (req, res) => {
-  try {
+    try {
+        console.log(req.body)
     const newTask = new Task({
       name: req.body.name,
       active: req.body.active,

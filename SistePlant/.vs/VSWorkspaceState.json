@@ -1,12 +1,15 @@
 {
   "ExpandedNodes": [
-    "",
+    "\\cypress",
+    "\\cypress\\e2e",
+    "\\cypress\\fixtures",
+    "\\cypress\\support",
     "\\public",
     "\\src",
     "\\src\\assets",
+    "\\src\\components",
     "\\src\\stores",
     "\\src\\views"
   ],
-  "SelectedNode": "\\src\\assets\\main.css",
   "PreviewInSolutionExplorer": false
 }

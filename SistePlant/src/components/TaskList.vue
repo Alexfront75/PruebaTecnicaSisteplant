@@ -30,11 +30,11 @@ import { tasksStore } from '../stores/Tasks'
 <template>
     <div class="greetings">
         <div class="txt-input-container">
-            <input type="text" maxlength="500" v-model="newTask" placeholder="Introduzca una nueva tarea"  @keyup.enter="addTaskToList"/>
+            <input type="text" name="newTaskInput" maxlength="500" v-model="newTask" placeholder="Introduzca una nueva tarea"  @keyup.enter="addTaskToList"/>
             <button v-on:click="addTaskToList">+</button>
         </div>
            <ul class="taskList" v-if=" tasksList.list">
-                   <li v-for="(task, index) in tasksList.list" v-bind:class="{completed : !task.active, uncompleted : task.active,  listGroupItem : true}" :key="index" >
+                   <li v-for="(task, index) in tasksList.list" v-bind:class="{completed : !task.active, uncompleted : task.active,  listGroupItem : true}" :key="index" :key-data="index" :db-index="task._id">
                        <div v-if="task.visible">
 
                            <img v-if="!task.active" class="editIcon" src="../assets/check_box.svg"  v-on:click="updateTaskStatus(index)" />
