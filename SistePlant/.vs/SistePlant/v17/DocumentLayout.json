@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\alexfrontRepos\\pruebaTecnicaSisteplant\\SistePlant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\alexfrontRepos\\pruebaTecnicaSisteplant\\SistePlant\\src\\components\\TaskFilter.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\TaskFilter.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\alexfrontRepos\\pruebaTecnicaSisteplant\\SistePlant\\src\\router\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\router\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\alexfrontRepos\\pruebaTecnicaSisteplant\\SistePlant\\src\\components\\TaskList.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\TaskList.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\alexfrontRepos\\pruebaTecnicaSisteplant\\SistePlant\\src\\stores\\Tasks.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\stores\\Tasks.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\alexfrontRepos\\pruebaTecnicaSisteplant\\SistePlant\\src\\App.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\alexfrontRepos\\pruebaTecnicaSisteplant\\SistePlant\\src\\assets\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\assets\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\alexfrontRepos\\pruebaTecnicaSisteplant\\SistePlant\\src\\assets\\base.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\assets\\base.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\alexfrontRepos\\pruebaTecnicaSisteplant\\SistePlant\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\alexfrontRepos\\pruebaTecnicaSisteplant\\SistePlant\\src\\views\\HomePage.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\views\\HomePage.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "index.html",
+              "DocumentMoniker": "G:\\alexfrontRepos\\pruebaTecnicaSisteplant\\SistePlant\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "G:\\alexfrontRepos\\pruebaTecnicaSisteplant\\SistePlant\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-08T04:00:25.775Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "base.css",
+              "DocumentMoniker": "G:\\alexfrontRepos\\pruebaTecnicaSisteplant\\SistePlant\\src\\assets\\base.css",
+              "RelativeDocumentMoniker": "src\\assets\\base.css",
+              "ToolTip": "G:\\alexfrontRepos\\pruebaTecnicaSisteplant\\SistePlant\\src\\assets\\base.css",
+              "RelativeToolTip": "src\\assets\\base.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-08T05:57:51.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.vue",
+              "DocumentMoniker": "G:\\alexfrontRepos\\pruebaTecnicaSisteplant\\SistePlant\\src\\App.vue",
+              "RelativeDocumentMoniker": "src\\App.vue",
+              "ToolTip": "G:\\alexfrontRepos\\pruebaTecnicaSisteplant\\SistePlant\\src\\App.vue",
+              "RelativeToolTip": "src\\App.vue",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2024-10-08T05:50:24.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tasks.ts",
+              "DocumentMoniker": "G:\\alexfrontRepos\\pruebaTecnicaSisteplant\\SistePlant\\src\\stores\\Tasks.ts",
+              "RelativeDocumentMoniker": "src\\stores\\Tasks.ts",
+              "ToolTip": "G:\\alexfrontRepos\\pruebaTecnicaSisteplant\\SistePlant\\src\\stores\\Tasks.ts",
+              "RelativeToolTip": "src\\stores\\Tasks.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-07T16:06:48.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.css",
+              "DocumentMoniker": "G:\\alexfrontRepos\\pruebaTecnicaSisteplant\\SistePlant\\src\\assets\\main.css",
+              "RelativeDocumentMoniker": "src\\assets\\main.css",
+              "ToolTip": "G:\\alexfrontRepos\\pruebaTecnicaSisteplant\\SistePlant\\src\\assets\\main.css",
+              "RelativeToolTip": "src\\assets\\main.css",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAACcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-07T15:40:41.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskFilter.vue",
+              "DocumentMoniker": "G:\\alexfrontRepos\\pruebaTecnicaSisteplant\\SistePlant\\src\\components\\TaskFilter.vue",
+              "RelativeDocumentMoniker": "src\\components\\TaskFilter.vue",
+              "ToolTip": "G:\\alexfrontRepos\\pruebaTecnicaSisteplant\\SistePlant\\src\\components\\TaskFilter.vue",
+              "RelativeToolTip": "src\\components\\TaskFilter.vue",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2024-10-07T15:33:31.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskList.vue",
+              "DocumentMoniker": "G:\\alexfrontRepos\\pruebaTecnicaSisteplant\\SistePlant\\src\\components\\TaskList.vue",
+              "RelativeDocumentMoniker": "src\\components\\TaskList.vue",
+              "ToolTip": "G:\\alexfrontRepos\\pruebaTecnicaSisteplant\\SistePlant\\src\\components\\TaskList.vue",
+              "RelativeToolTip": "src\\components\\TaskList.vue",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2024-10-07T15:23:13.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.ts",
+              "DocumentMoniker": "G:\\alexfrontRepos\\pruebaTecnicaSisteplant\\SistePlant\\src\\router\\index.ts",
+              "RelativeDocumentMoniker": "src\\router\\index.ts",
+              "ToolTip": "G:\\alexfrontRepos\\pruebaTecnicaSisteplant\\SistePlant\\src\\router\\index.ts",
+              "RelativeToolTip": "src\\router\\index.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-07T14:54:45.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomePage.vue",
+              "DocumentMoniker": "G:\\alexfrontRepos\\pruebaTecnicaSisteplant\\SistePlant\\src\\views\\HomePage.vue",
+              "RelativeDocumentMoniker": "src\\views\\HomePage.vue",
+              "ToolTip": "G:\\alexfrontRepos\\pruebaTecnicaSisteplant\\SistePlant\\src\\views\\HomePage.vue",
+              "RelativeToolTip": "src\\views\\HomePage.vue",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2024-10-07T15:28:36.37Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
